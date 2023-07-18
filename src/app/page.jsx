@@ -1,3 +1,5 @@
+"use client";
+
 import { Button } from "./components/Button";
 import { Card } from "./components/Card";
 import { Description } from "./components/Description";
@@ -21,9 +23,17 @@ export default function Home() {
         </Form>
       </Header>
       <WeatherData>
-        <H2 cityName="Brasília" igmAlt="Bandeira do país" />
+        <H2
+          cityName="Brasília"
+          imgSrc="https://flagsapi.com/BR/flat/64.png"
+          igmAlt="Bandeira do país"
+        />
         <Paragraph>25</Paragraph>
-        <Description description="Nublado" imgAlt="Condições do tempo" />
+        <Description
+          description="Nublado"
+          imgSrc="http://openweathermap.org/img/wn/01d.png"
+          imgAlt="Condições do tempo"
+        />
         <Details humidity="48%" wind="3km/h" />
       </WeatherData>
     </Card>

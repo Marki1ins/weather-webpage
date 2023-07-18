@@ -1,7 +1,7 @@
 export function Details({ humidity, wind }) {
   return (
-    <div>
-      <p>
+    <div className="flex items-center justify-center">
+      <p className="m-3 p-3 border-r border-white">
         <span>{humidity}</span>
       </p>
       <p>
