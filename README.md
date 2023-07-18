@@ -2,13 +2,14 @@
 
 Welcome! This repository contains only one folder (front-end).
 
-![image](https://github.com/Marki1ins/weather-webpage/assets/106609398/8f6fd544-da1f-4a84-b270-e2019e9579ba)
+![image](https://github.com/Marki1ins/weather-webpage/assets/106609398/b8f8eadb-62cb-441f-a6d3-75ed1c2511d5)
 
-![image](https://github.com/Marki1ins/weather-webpage/assets/106609398/22764dbf-2af6-493a-b707-fd7350d10ede)
+![image2](https://github.com/Marki1ins/weather-webpage/assets/106609398/5202887a-a915-40fb-9d1a-230d26cf6f8e)
 
-![image](https://github.com/Marki1ins/weather-webpage/assets/106609398/38e3a4af-9ae6-42fb-8689-9156196f8773)
+![image3](https://github.com/Marki1ins/weather-webpage/assets/106609398/c8f6d35d-bf50-47eb-b667-17707af00b99)
 
-![image](https://github.com/Marki1ins/weather-webpage/assets/106609398/86c09268-e982-46c2-aaf8-91287ea46995)
+![image4](https://github.com/Marki1ins/weather-webpage/assets/106609398/a9d9f5fd-7a14-41a0-bd3a-805f37f381ea)
+
 
 # 🧠 About 
 
