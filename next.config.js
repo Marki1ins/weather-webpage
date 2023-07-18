@@ -5,7 +5,7 @@ const nextConfig = {
   },
   env: {
     API_KEY: process.env.API_KEY,
-    UNLEASH_KEY: process.env.UNLEASH_KEY,
+    UNSPLASH_KEY: process.env.UNSPLASH_KEY,
   },
 };
 
