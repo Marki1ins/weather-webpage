@@ -1,5 +1,7 @@
 export function Card({ children }) {
   return (
-    <main className="p-8 bg-medium-blue shadow-lg shadow-black/25 rounded-2xl text-gray-50">{children}</main>
+    <div className="p-8 backdrop-blur-3xl shadow-2xl shadow-black/25 rounded-2xl text-center text-gray-50">
+      {children}
+    </div>
   );
 }
